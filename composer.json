@@ -1,0 +1,22 @@
+{
+    "name": "artem/webdev",
+    "description": "Desc",
+    "type": "library",
+    "license": "l",
+    "authors": [
+        {
+            "name": "Me",
+            "email": "artem4ik500@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "renegade\\": "vendor/renegade/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
+}
