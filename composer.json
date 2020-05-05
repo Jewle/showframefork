@@ -20,5 +20,11 @@
         "php": ">=7.0.0",
     "afrazahmad/clear-cached-data": "^1.0",
         "gabordemooij/redbean": "dev-master"
+    },
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Jewle/showframefork"
     }
+  ]
 }
