@@ -9,7 +9,7 @@
             "email": "artem4ik500@yandex.ru"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "autoload": {
         "psr-4": {
             "renegade\\": "vendor/renegade/core",
