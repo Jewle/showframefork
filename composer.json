@@ -18,7 +18,7 @@
     },
     "require": {
         "php": ">=7.0.0",
-    "afrazahmad/clear-cached-data": "^1.0"
+    "afrazahmad/clear-cached-data": "^1.0",
         "gabordemooij/redbean": "dev-master"
     }
 }
