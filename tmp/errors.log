@@ -1,0 +1,18 @@
+[2017-08-21 16:01:42] Текст ошибки: Нет соединения с БД | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-05-05 15:34:41] Текст ошибки: Нет соединения с БД | Файл: W:\domains\webdev\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-05-05 15:34:41] Текст ошибки: Страница не найдена | Файл: W:\domains\webdev\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-05 15:36:43] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yii2.loc.test' doesn't exist | Файл: W:\domains\webdev\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2020-05-05 21:26:41] Текст ошибки: Страница не найдена | Файл: W:\domains\webdev\vendor\ishop\core\Router.php | Строка: 44
+=================
+[2020-05-05 21:52:32] Текст ошибки: На найден шаблон  | Файл: W:\domains\webdev\vendor\ishop\core\base\View.php | Строка: 47
+=================
+[2020-05-05 22:00:11] Текст ошибки: Class 'R' not found | Файл: W:\domains\webdev\app\controllers\MainController.php | Строка: 11
+=================
+[2020-05-05 22:35:06] Текст ошибки: Нет соединения с БД | Файл: W:\domains\webdev\vendor\renegade\core\Db.php | Строка: 15
+=================
+[2020-05-05 22:35:53] Текст ошибки: Нет соединения с БД | Файл: W:\domains\webdev\vendor\renegade\core\Db.php | Строка: 15
+=================
