@@ -1,5 +1,5 @@
-<h1>Hello, world!</h1>
+<h2>Добро пожаловать в фреймворк </h2>
+<p>Чтобы создать новый контроллер перейдите в директорию <pre><a href="#">app/controllers</a></pre></p>
+<p>Изменить шаблон вы сможете в папке <pre><a href="#">views/layouts</a></pre></p>
+<p>Кстати сейчас установлен шаблон <pre><?=$this->layout?></pre></p>
 
-<?php foreach($users as $user): ?>
-    <h3><?=$user['name'];?></h3>
-<?php endforeach; ?>
